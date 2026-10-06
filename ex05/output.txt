@@ -1,0 +1,5 @@
+1234 NameNode
+2345 DataNode
+3456 SecondaryNameNode
+4567 ResourceManager
+5678 NodeManager

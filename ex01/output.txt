@@ -1,0 +1,4 @@
+hadoop      2
+hello       2
+mapreduce   1
+world       2

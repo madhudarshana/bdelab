@@ -1,0 +1,12 @@
+> sh.status()
+sharding version: ...
+shards:
+  { "_id" : "shard0000", "host" : "localhost:27020" }
+  { "_id" : "shard0001", "host" : "localhost:27021" }
+
+> rs.status()
+Set Name: rs0
+Members:
+  [0] PRIMARY: localhost:27017
+  [1] SECONDARY: localhost:27018
+  [2] SECONDARY: localhost:27019
